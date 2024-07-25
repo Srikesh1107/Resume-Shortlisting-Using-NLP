@@ -1,0 +1,34 @@
+Assume that the sum of two odd integers is not even. This means that the sum of two odd integers is odd.
+
+An odd integer can be expressed in the form 2k+1, where k is an integer.
+
+Let the two odd integers be: a=2m+1and b=2n+1,where m and n are integers.
+
+The sum of 𝑎 and  𝑏 is
+              a+b=(2m+1)+(2n+1)
+              a+b=2m+2n+2
+              a+b=2(m+n+1).
+
+m+n+1 s an integer because 𝑚 𝑛 are integers, and the sum and addition of integers is also an integer.
+
+Therefore, 
+2
+(
+𝑚
++
+𝑛
++
+1
+)
+2(m+n+1) is of the form 
+2
+𝑘
+2k, where 
+𝑘
+=
+𝑚
++
+𝑛
++
+1
+k=m+n+1 is an integer.
